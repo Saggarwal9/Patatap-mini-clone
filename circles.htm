@@ -202,7 +202,7 @@
 				circles[i].scale(.9);
 				if(circles[i].area<1){
 					circles[i].remove(); //remove the circle from the canvas
-					circles[i].splice(i,1);//removes the circles[i] from the array;
+					circles.splice(i,1);//removes the circles[i] from the array;
 					i--; //decrements i once, because circles[i+1] now becomes circles[i]
 				}
 			}
