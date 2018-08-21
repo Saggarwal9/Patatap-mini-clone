@@ -1,5 +1,5 @@
-# Patatap-mini-clone
-First front-end program done to imitate the basic functionality of patatap.com.  
+# Virtual Musician
+Tried to imitate patatap.com for my Niece's 10th birthday. 
 
 
 Libraries used:  
